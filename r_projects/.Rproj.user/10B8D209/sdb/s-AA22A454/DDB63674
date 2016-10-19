@@ -1,0 +1,28 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1475689660002.000,
+    "dirty" : false,
+    "encoding" : "",
+    "folds" : "",
+    "hash" : "0",
+    "id" : "DDB63674",
+    "lastKnownWriteTime" : 6,
+    "last_content_update" : -2147483648,
+    "path" : null,
+    "project_path" : null,
+    "properties" : {
+        "cacheKey" : "g3gdtzvsx5",
+        "caption" : "pc_up_shami_nc_q_values_all_log",
+        "contentUrl" : "grid_resource/gridviewer.html?env=&obj=pc_up_shami_nc_q_values_all_log&cache_key=g3gdtzvsx5",
+        "displayedObservations" : "695",
+        "environment" : "",
+        "object" : "pc_up_shami_nc_q_values_all_log",
+        "totalObservations" : "695",
+        "variables" : "2"
+    },
+    "relative_order" : 1,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_dataframe"
+}
